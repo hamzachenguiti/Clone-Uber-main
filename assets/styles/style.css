@@ -74,8 +74,8 @@ h4 {
 .btn {
   padding: 1rem 1.5rem;
   display: inline-block;
-  background: var(--clr-neutral-900);
-  color: var(--clr-neutral-100);
+  background: #ffa60d;
+  color: #fff;
   border-radius: 10px;
   font-weight: 500;
   line-height: 1;
