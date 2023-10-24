@@ -300,6 +300,9 @@ section#engagements__section {
   align-items: flex-start;
   gap: 1rem;
 }
+.engagements__section__flex img {
+  border-radius: 0.5rem;
+}
 
 /* INFOS SECTION */
 
