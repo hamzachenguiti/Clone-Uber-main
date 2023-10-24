@@ -61,7 +61,7 @@ h4 {
   flex-direction: column;
 }
 
-@media (min-width: 40em) {
+@media (min-width: 55em) {
   .split {
     flex-direction: row;
     gap: 2em;
@@ -235,6 +235,7 @@ section#main__cta {
 }
 .main__cta__apps a img {
   height: inherit;
+  object-fit: contain;
 }
 .sous-titre {
   opacity: 0.8;
